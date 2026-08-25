@@ -1,19 +1,19 @@
-# 🔍 Network Scanner
+Network Scanner
 A Python tool that scans ports and detects HTTP/HTTPS services.
 
-# 🚀 Features
+Features
 - Port scanning
 - HTTP detection
 - HTTPS support (SSL)
 - Displays server response
-# 🧰 Technologies
+Technologies
 - Python
 - socket
 - ssl
-# ▶️ Usage
+Usage
 Run the script:
 ```bash
 python scanner.py
 ```md
 Enter target domain(ex: google.com) to scan open ports and detect services
-## Author-Ianis <3
+## Author-Ianiss37 <3
